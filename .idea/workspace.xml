@@ -4,7 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a25a2e3-8287-4594-baf2-ad97ad9e3daa" name="Changes" comment="v1" />
+    <list default="true" id="5a25a2e3-8287-4594-baf2-ad97ad9e3daa" name="Changes" comment="v1">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnDarkMode/BtnDarkMode.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnDarkMode/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnDarkMode/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnDarkMode/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnGitHub/BtnGitHub.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnGitHub/gitHub-black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/btnGitHub/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/footer/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/header/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/navbar/NavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/navbar/style.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/utils/detectDarkMode.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/utils/scrollToTop.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/utils/useLocalStorage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/projectList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/gitHub.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/linkedIn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/Blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/PortfolioReact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/Samurai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/TodoV1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/TodoV1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/TrelloClone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/activebox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/ideas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/learnReact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/leverans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/mogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/portfolio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/react_pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/upavhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/projects/upavhouse2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Project.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contacts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/Project.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,25 +77,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Oosn6t7G9W2JcNFssbsrvWskNz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/DEVELOPER/portfolio",
+    "javascript.nodejs.core.library.configured.version": "16.16.0",
+    "javascript.nodejs.core.library.typings.version": "16.18.24",
+    "last_opened_file_path": "D:/DEVELOPER/portfolio/src/pages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Mercurial",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "D:\\DEVELOPER\\portfolio\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -47,6 +110,31 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEVELOPER\portfolio\src\pages" />
+      <recent name="D:\DEVELOPER\portfolio\src\component" />
+      <recent name="D:\DEVELOPER\portfolio\src\styles" />
+      <recent name="D:\DEVELOPER\portfolio\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\anton\AppData\Roaming\Subversion</configuration>
@@ -58,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682238435652</updated>
-      <workItem from="1682238439051" duration="985000" />
+      <workItem from="1682238439051" duration="15088000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1682238592185</created>
